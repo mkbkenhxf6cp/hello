@@ -1,4 +1,4 @@
-# hello [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20Material%20Components%20-%20curated%20list%20of%20projects%20based%20on%20Google%27s%20Material%20Components%20%E2%86%92&url=https://github.com/webdenim/awesome-material-components&via=webdenim&hashtags=materialdesign,frontend,webdesign,webdev,mobiledev,androiddev,iosdev)
+# hello [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20Material%20Components%20-%20curated%20list%20of%20projects%20based%20on%20Google%27s%20Material%20Components%20%E2%86%92&url=https://github.com/webdenim/awesome-material-components&via=webdenim&hashtags=materialdesign,frontend,webdesign,webdev,mobiledev,androiddev,iosdev)
 
 Awesome Material Components is a collection of resources related to official Google's Material Components (as opposed to a broad topic of community-based implementations of Material Design in the existing list).
 
